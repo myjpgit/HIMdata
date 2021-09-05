@@ -1,11 +1,12 @@
 # ANSWERdata
 The ANSWERdata dataset consists of two parts:
-same_city represents the Same_City Relationship dataset;
-advisor_advisee represents the Advisor_Advisee Relstionship dataset.
+same_city folder represents the Same_City Relationship dataset;
+advisor_advisee folder represents the Advisor_Advisee Relstionship dataset.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 The Same_City Relationship dataset contains the following key components:
+
 · refined_data/data.txt represents all the connection pairs in the Same_City Relationship network. 
   The first and second columns of data represent the two nodes that form a link (mutual following relationship) in the network. 
   The third column represents the same-city relationship, where 1 represents the two users in the same city, and 0 represents the two users in different cities.
