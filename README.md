@@ -3,7 +3,7 @@ The ANSWERdata dataset consists of two parts:
 same_city folder represents the Same_City Relationship dataset;
 advisor_advisee folder represents the Advisor_Advisee Relstionship dataset.
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 The Same_City Relationship dataset contains the following key components:
 
@@ -24,12 +24,13 @@ The Same_City Relationship dataset contains the following key components:
 
 · data/relation_true.txt is a decomposed version of refined_data/data.txt, which represents mutual following relationship pairs with same-city relationship.
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 The Advisor_Advisee Relationship dataset contains the following key components:
+
 · refined_data/data.txt represents all the connection pairs in the Advisor_Advisee Relationship network. 
   The first and second columns of data represent the two nodes that form a link (co-author relationship) in the network. 
-  The third column represents the advisor-advisee relationship, where 1 represents that there is an advisor-advisee relationship between the two scholars, and 0 represents that there is no advisor-advisee relationship between the two scholars.
+  The third column represents the advisor-advisee relationship, where 1 represents that there is an advisor-advisee relationship between the two scholars, and 0 represents that   there is no advisor-advisee relationship between the two scholars.
 
 · refined_data/aut_institution.mat is part of the attributes of the scholars, representing the information between scholars and their institutions.
 
@@ -50,7 +51,7 @@ The Advisor_Advisee Relationship dataset contains the following key components:
 
 · data/relation_true.txt is a decomposed version of refined_data/data.txt, which represents co-author relationship pairs with advisor-advisee relationship.
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 The above is an introduction to all the data in the two data sets, which refined_data/data.txt and attributes data are the basic data. 
 When using, readers can use part of the data according to personal needs. 
