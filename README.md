@@ -53,6 +53,6 @@ The Advisor_Advisee Relationship dataset contains the following key components:
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-The above is an introduction to all the data in the two data sets, which refined_data/data.txt and attributes data are the basic data. 
+The above is an introduction to all the data in the two datasets, which refined_data/data.txt and attributes data are the basic data. 
 When using, readers can use part of the data according to personal needs. 
 If the required data form does not exist, readers can generate the required data based on the basic data.
