@@ -1,5 +1,5 @@
-# ANSWERdata
-The ANSWERdata dataset consists of two parts:
+# HIMdata
+The HIMdata dataset consists of two parts:
 same_city folder represents the Same_City Relationship dataset;
 advisor_advisee folder represents the Advisor_Advisee Relstionship dataset.
 
