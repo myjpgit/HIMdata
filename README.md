@@ -12,8 +12,8 @@ The Same_City Relationship dataset:
 
 all the connection pairs in the Same_City Relationship network. The first and second columns of data represent the two nodes that form a link (mutual following relationship) in the network. The third column represents the same-city relationship, where 1 represents the two users in the same city, and 0 represents the two users in different cities.
 
-### refined_data/node_features.txt and refined_data/node_features.mat 
-the attributes information of all nodes in the network. The two files contain the same information, but are stored in different ways.
+### refined_data/node_features.mat 
+the attributes information of all nodes in the network.
 
 ### refined_data/node_ind.txt 
 the index information of all nodes in the network, represented by the users' id information in the Weibo social network.
